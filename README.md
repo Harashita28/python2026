@@ -1,2 +1,2 @@
 # python2026
-in this document , all the python practice from diffrent topic whold be attached task whold be  
+This repository will contain will practice question and interactions with python topic such as string , loops , conditional ,oops and so on ... 
